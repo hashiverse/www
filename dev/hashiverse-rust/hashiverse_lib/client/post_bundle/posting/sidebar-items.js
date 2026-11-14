@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["post_feedback_to_location","submit_post"]};

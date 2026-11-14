@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["RPC_RESPONSE_PACKET_VERSION"],"struct":["RpcResponsePacketRx","RpcResponsePacketTx","RpcResponsePacketTxFlags"]};

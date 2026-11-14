@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["pow_compute_data_hash","pow_measure","pow_measure_from_data_hash"]};

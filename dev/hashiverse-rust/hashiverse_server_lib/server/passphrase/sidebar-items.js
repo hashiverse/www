@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEFAULT_PASSPHRASE_PATHS"],"fn":["get_passphrase"]};

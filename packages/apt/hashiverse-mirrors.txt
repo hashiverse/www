@@ -1,0 +1,3 @@
+https://www.hashiverse.com/packages/apt
+https://www.hashiverse.eu/packages/apt
+https://www.hashiverse.ch/packages/apt

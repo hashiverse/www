@@ -1,0 +1,5 @@
+Types: deb
+URIs: mirror+file:/etc/apt/hashiverse-mirrors.txt
+Suites: stable
+Components: main
+Signed-By: /usr/share/keyrings/hashiverse-packages.asc

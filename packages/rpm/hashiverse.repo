@@ -1,0 +1,9 @@
+[hashiverse]
+name=Hashiverse (stable)
+baseurl=https://www.hashiverse.com/packages/rpm
+        https://www.hashiverse.eu/packages/rpm
+        https://www.hashiverse.ch/packages/rpm
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-hashiverse

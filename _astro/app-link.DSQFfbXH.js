@@ -1,0 +1,1 @@
+function o(t){return t==="localhost"||t==="127.0.0.1"?"http://localhost:3000":`https://${t.startsWith("www")?`app${t.slice(3)}`:`app.${t}`}`}function p(t){const n=document.getElementById(t);n&&(n.href=o(window.location.hostname))}export{p as s};

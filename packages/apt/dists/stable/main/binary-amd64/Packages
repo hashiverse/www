@@ -1,0 +1,38 @@
+Package: hashiverse-cli
+Architecture: amd64
+Version: 1.1.2
+Priority: optional
+Section: net
+Maintainer: James Jardine <mail@jimme.net>
+Installed-Size: 21418
+Filename: pool/main/hashiverse-cli_1.1.2_amd64.deb
+Size: 8243472
+MD5sum: 52778026f6c85760831fd7e248df372a
+SHA1: d7c5a140a832be443eb27e96ead177580cbc2b4f
+SHA256: daaf45cde1120e0058fcc547b0b3cfb1e3c217a0b338bd11483fe78d36cfb443
+SHA512: cd54b6e2455ad62174baebf6385c875d2c6e57636fcd77426d24fa19ae4e2aa17a87262486236c15328c93bbaede6a8b94cee98bb4557c94472b49732e8d04e8
+Homepage: https://www.hashiverse.com
+Description: Hashiverse command-line client — your open-source decentralized X/Twitter replacement.
+ Read posts by user or hashtag, see trending hashtags, and post, from the shell.
+License: MIT OR Apache-2.0
+
+Package: hashiverse-server
+Architecture: amd64
+Version: 1.1.2
+Priority: optional
+Section: net
+Maintainer: James Jardine <mail@jimme.net>
+Installed-Size: 25582
+Depends: ipset, iptables, ca-certificates
+Filename: pool/main/hashiverse-server_1.1.2_amd64.deb
+Size: 8866108
+MD5sum: 677bccc1e7ae4d9da5c5887248c10e0f
+SHA1: 03dcd999c947d01442987f8457e966c29c75bc0a
+SHA256: 7c9ad11b12f154ebe8542dc7bd1429998b4616e6ff2ff2db441437d58ed35450
+SHA512: 77c9017140d0500cf55774e6312150263b5a59cc50682f5352e87e79bf23e62952d417c532d0bd9255ef92a61cbfa10223aa7299175de3b8f070a9aa86f15daa
+Homepage: https://www.hashiverse.com
+Description: Hashiverse server — your open-source decentralized X/Twitter replacement.
+ Runs a Hashiverse node as the systemd service "hashiverse-server", started on install,
+ and keeps it up to date with a daily auto-update timer ("hashiverse-server-updater").
+License: MIT OR Apache-2.0
+

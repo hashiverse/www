@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 14 Nov 2026 14:40:43 +0000
+Description: Hashiverse packages
+Label: Hashiverse
+Origin: Hashiverse
+Suite: stable
+MD5Sum:
+ 37a41ed90c6b2766a8718f5528948be1             1663 main/binary-amd64/Packages
+ 6e3cdda6662b7203960897a006922c8b              876 main/binary-amd64/Packages.gz
+ cd997ad5ee3003f848826baa12ac8809             1663 main/binary-arm64/Packages
+ 84288145325f03a2dbe36f7b94a7943f              876 main/binary-arm64/Packages.gz
+SHA1:
+ 073f67825b83fa84f8aeca19f4828af853813687             1663 main/binary-amd64/Packages
+ ee2d11cc0bc7e096cf67d06376c8f39541865974              876 main/binary-amd64/Packages.gz
+ 0c875fb13610e9c1fa0acc0c2aad9acca07e0cd5             1663 main/binary-arm64/Packages
+ ea201adc5cb0c9d7210e9ce4bee1cacdbec68583              876 main/binary-arm64/Packages.gz
+SHA256:
+ b325db99b94c8714838ccc8ac2fca2dfcbd3b702d0a0f200bb801796af541cc7             1663 main/binary-amd64/Packages
+ e452510ae3d1f376d6b84aebc8c6fa3398e0621b925c6238ff910b0fb05e0a02              876 main/binary-amd64/Packages.gz
+ a20e61a040872bf478f9a40e935036f228418501ac88e63600b4728907040b5e             1663 main/binary-arm64/Packages
+ 0667586e14c4d4fdbb5642a60f153726fca10d22939df6b05f331942d4b951f8              876 main/binary-arm64/Packages.gz
+SHA512:
+ 4e69d610e5c0c8486984535e66fba47f14d2f93d7d662c4d35daf623241c96736e82694aab9bc252fff6eb90d6c3ed41729aa68ef25dfb4d6d503f350504cfdc             1663 main/binary-amd64/Packages
+ bb41f27d25378734188d06f78b4edec2dc916eac43fc8ee352ecc9f31eb446d64d18c9121aebefe0c37757fe9ef37009e7baa4d36bff49e735ca910b6b2545bf              876 main/binary-amd64/Packages.gz
+ 1247c9820249e6dcdf0f39469157438855900065c06632580f3b06c7870d6525f4f20798b4c612f5a2e5dd4252f0ab7d46b37ff99d1ee98044b35312879eabe4             1663 main/binary-arm64/Packages
+ 4b4e82f736c5fc4183d22327a2a307b55a48d021156a594f340ac0f294ac13f81d9dcfe656d61fa95a487d6367c2c948b55673780d62bf2276a933392e920dd6              876 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQ/SlWq/qjJc74s42uUO6ttWxXGjwUCavhy6wAKCRCUO6ttWxXG
+jzmAAQCC+QiOuas84xd1l47HttKp93wZ941mmUmT5iQglj1frQD/Vwweb8G3P9VZ
+pe+tk+Nt3qjb9KmfmsFc3dGGYojzQgM=
+=neVK
+-----END PGP SIGNATURE-----
